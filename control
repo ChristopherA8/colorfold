@@ -1,0 +1,9 @@
+Package: com.chr1s.colorfold
+Name: ColorFold
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Colorize Folders!
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
